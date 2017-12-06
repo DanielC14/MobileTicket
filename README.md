@@ -26,7 +26,7 @@ Web application developed for the Project II subject in the second year of the T
 ### Homepage
 
 * Computer
-![](Screenshots/PC/pagina principal PC.png?raw=true)
+![Homepage PC](Screenshots/PC/pagina principal PC.png?raw=true)
 
 * Smartphone
-![](Screenshots/Smartphone/pagina principal TL.png?raw=true)
+![Homepage Smartphone](Screenshots/Smartphone/pagina principal TL.png?raw=true)
