@@ -29,4 +29,4 @@ Web application developed for the Project II subject in the second year of the T
 ![Homepage PC](Screenshots/PC/homepage.png?raw=true)
 
 * Smartphone
-![Homepage Smartphone](Screenshots/Smartphone/homepage.png?raw=true)
+![Homepage Smartphone](Screenshots/SmartPhone/homepage.png?raw=true)
