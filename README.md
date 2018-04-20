@@ -2,6 +2,10 @@
 
 Web application developed for the Project II subject in the second year of the Technologies and Information Systems for the Web course, licensed at ESMAD (Superior School of Media Arts and Design).
 
+Made by:
+* [DanielC14](https://github.com/DanielC14)
+* [FilipaNora](https://github.com/FilipaNora)
+
 ## Description
 
 MobileTicket is a Web application that allows a user to withdraw a ticket from a service of a company.
